@@ -1,1 +1,1 @@
-This is the first instanve of my portfolio. Stay tuned!!!
+This is the first instance of my portfolio. Stay tuned!!!
